@@ -1,3 +1,5 @@
+// breadbord, DHT11 sensor, male-to-male jumper wires requires
+
 #include "DHT.h"
 #define DHTPIN 2 // Digital pin 2
 
